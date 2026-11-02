@@ -1,0 +1,1178 @@
+{
+  "title": "Parrot or Poet?",
+  "corpusTokens": 29489,
+  "nUnits": 4895,
+  "voice": "Adrianne Lenker + Big Thief",
+  "copiedRunAverages": [
+    {
+      "n": 1,
+      "avg": 1.4285714285714286,
+      "runs": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "n": 2,
+      "avg": 2.25,
+      "runs": [
+        2,
+        2,
+        3,
+        1,
+        4,
+        3,
+        1,
+        2
+      ]
+    },
+    {
+      "n": 3,
+      "avg": 5.5,
+      "runs": [
+        4,
+        7,
+        7,
+        6,
+        8,
+        3,
+        5,
+        4
+      ]
+    },
+    {
+      "n": 4,
+      "avg": 6.625,
+      "runs": [
+        9,
+        6,
+        10,
+        7,
+        3,
+        6,
+        6,
+        6
+      ]
+    }
+  ],
+  "samples": [
+    {
+      "n": 1,
+      "text": "so you like me gets the the his is get",
+      "copy": 2,
+      "seed": 2027,
+      "k": 1
+    },
+    {
+      "n": 1,
+      "text": "mm i a room thrusting rainbows we of who with never the to",
+      "copy": 1,
+      "seed": 2027,
+      "k": 2
+    },
+    {
+      "n": 1,
+      "text": "metal and have i'm decay angel bloom lot",
+      "copy": 1,
+      "seed": 2027,
+      "k": 3
+    },
+    {
+      "n": 1,
+      "text": "oh in is windshield me will though is",
+      "copy": 2,
+      "seed": 2027,
+      "k": 4
+    },
+    {
+      "n": 1,
+      "text": "separate mind lost left",
+      "copy": 1,
+      "seed": 2027,
+      "k": 5
+    },
+    {
+      "n": 1,
+      "text": "of",
+      "copy": 1,
+      "seed": 2027,
+      "k": 6
+    },
+    {
+      "n": 1,
+      "text": "i through but",
+      "copy": 2,
+      "seed": 2027,
+      "k": 7
+    },
+    {
+      "n": 2,
+      "text": "maybe the needle shining sapphires",
+      "copy": 2,
+      "seed": 2028,
+      "k": 0
+    },
+    {
+      "n": 2,
+      "text": "and petal",
+      "copy": 2,
+      "seed": 2028,
+      "k": 1
+    },
+    {
+      "n": 2,
+      "text": "do what i flew up so much coming back",
+      "copy": 3,
+      "seed": 2028,
+      "k": 2
+    },
+    {
+      "n": 2,
+      "text": "bloom",
+      "copy": 1,
+      "seed": 2028,
+      "k": 3
+    },
+    {
+      "n": 2,
+      "text": "i'll show you come to guide her vampire empire i'm empty horses on the crowd not saying",
+      "copy": 4,
+      "seed": 2028,
+      "k": 4
+    },
+    {
+      "n": 2,
+      "text": "you scream of the plants in",
+      "copy": 3,
+      "seed": 2028,
+      "k": 5
+    },
+    {
+      "n": 2,
+      "text": "taking",
+      "copy": 1,
+      "seed": 2028,
+      "k": 6
+    },
+    {
+      "n": 2,
+      "text": "taking oxygen and the man",
+      "copy": 2,
+      "seed": 2028,
+      "k": 7
+    },
+    {
+      "n": 3,
+      "text": "old stars filling up your coat",
+      "copy": 4,
+      "seed": 2029,
+      "k": 0
+    },
+    {
+      "n": 3,
+      "text": "never had a dollar for every wallet i couldn't say the words like you",
+      "copy": 7,
+      "seed": 2029,
+      "k": 1
+    },
+    {
+      "n": 3,
+      "text": "we'd ride the mighty wind and nothing more to say goodbye",
+      "copy": 7,
+      "seed": 2029,
+      "k": 2
+    },
+    {
+      "n": 3,
+      "text": "you were sleeping in with the drills",
+      "copy": 6,
+      "seed": 2029,
+      "k": 3
+    },
+    {
+      "n": 3,
+      "text": "rolled her three times off of highway 9",
+      "copy": 8,
+      "seed": 2029,
+      "k": 4
+    },
+    {
+      "n": 3,
+      "text": "and the storm",
+      "copy": 3,
+      "seed": 2029,
+      "k": 5
+    },
+    {
+      "n": 3,
+      "text": "you won't recognize your house",
+      "copy": 5,
+      "seed": 2029,
+      "k": 6
+    },
+    {
+      "n": 3,
+      "text": "vacant angel crimson light",
+      "copy": 4,
+      "seed": 2029,
+      "k": 7
+    },
+    {
+      "n": 4,
+      "text": "but i threw my fist into a wall again",
+      "copy": 9,
+      "seed": 2030,
+      "k": 0
+    },
+    {
+      "n": 4,
+      "text": "waitin for my woman to call",
+      "copy": 6,
+      "seed": 2030,
+      "k": 1
+    },
+    {
+      "n": 4,
+      "text": "cause this world it keeps trying to pull me down",
+      "copy": 10,
+      "seed": 2030,
+      "k": 2
+    },
+    {
+      "n": 4,
+      "text": "bound by all the things we said",
+      "copy": 7,
+      "seed": 2030,
+      "k": 3
+    },
+    {
+      "n": 4,
+      "text": "show me understanding",
+      "copy": 3,
+      "seed": 2030,
+      "k": 4
+    },
+    {
+      "n": 4,
+      "text": "the dust inside the rusted souls",
+      "copy": 6,
+      "seed": 2030,
+      "k": 5
+    },
+    {
+      "n": 4,
+      "text": "she looks a lot like you",
+      "copy": 6,
+      "seed": 2030,
+      "k": 6
+    },
+    {
+      "n": 4,
+      "text": "circle of pine and red oak",
+      "copy": 6,
+      "seed": 2030,
+      "k": 7
+    }
+  ],
+  "prompts": [
+    {
+      "prompt": "i am",
+      "continuation": "wandering",
+      "usedContext": "am",
+      "nextTokenDist": [
+        {
+          "token": "the",
+          "p": 0.25
+        },
+        {
+          "token": "a",
+          "p": 0.14583333333333334
+        },
+        {
+          "token": "</s>",
+          "p": 0.125
+        },
+        {
+          "token": "empty",
+          "p": 0.10416666666666667
+        },
+        {
+          "token": "nothing",
+          "p": 0.0625
+        },
+        {
+          "token": "both",
+          "p": 0.041666666666666664
+        },
+        {
+          "token": "i",
+          "p": 0.041666666666666664
+        },
+        {
+          "token": "wandering",
+          "p": 0.041666666666666664
+        },
+        {
+          "token": "thin",
+          "p": 0.020833333333333332
+        },
+        {
+          "token": "weatherproof",
+          "p": 0.020833333333333332
+        }
+      ],
+      "featured": false
+    },
+    {
+      "prompt": "you are",
+      "continuation": "you come together",
+      "usedContext": "are",
+      "nextTokenDist": [
+        {
+          "token": "nothing",
+          "p": 0.12371134020618557
+        },
+        {
+          "token": "the",
+          "p": 0.1134020618556701
+        },
+        {
+          "token": "you",
+          "p": 0.05154639175257732
+        },
+        {
+          "token": "burning",
+          "p": 0.041237113402061855
+        },
+        {
+          "token": "her's",
+          "p": 0.041237113402061855
+        },
+        {
+          "token": "always",
+          "p": 0.041237113402061855
+        },
+        {
+          "token": "no",
+          "p": 0.030927835051546393
+        },
+        {
+          "token": "going",
+          "p": 0.030927835051546393
+        },
+        {
+          "token": "dead",
+          "p": 0.020618556701030927
+        },
+        {
+          "token": "</s>",
+          "p": 0.020618556701030927
+        }
+      ],
+      "featured": false
+    },
+    {
+      "prompt": "i don't",
+      "continuation": "get out and disappear",
+      "usedContext": "don't",
+      "nextTokenDist": [
+        {
+          "token": "wanna",
+          "p": 0.2805755395683453
+        },
+        {
+          "token": "know",
+          "p": 0.17985611510791366
+        },
+        {
+          "token": "need",
+          "p": 0.1510791366906475
+        },
+        {
+          "token": "let",
+          "p": 0.050359712230215826
+        },
+        {
+          "token": "it",
+          "p": 0.02877697841726619
+        },
+        {
+          "token": "want",
+          "p": 0.02877697841726619
+        },
+        {
+          "token": "come",
+          "p": 0.02877697841726619
+        },
+        {
+          "token": "feel",
+          "p": 0.02158273381294964
+        },
+        {
+          "token": "have",
+          "p": 0.02158273381294964
+        },
+        {
+          "token": "get",
+          "p": 0.02158273381294964
+        }
+      ],
+      "featured": true
+    },
+    {
+      "prompt": "if you",
+      "continuation": "can turn your pick up inside from the foot of you don't be my",
+      "usedContext": "you",
+      "nextTokenDist": [
+        {
+          "token": "</s>",
+          "p": 0.16184971098265896
+        },
+        {
+          "token": "know",
+          "p": 0.027938342967244702
+        },
+        {
+          "token": "don't",
+          "p": 0.024084778420038536
+        },
+        {
+          "token": "come",
+          "p": 0.023121387283236993
+        },
+        {
+          "token": "are",
+          "p": 0.02119460500963391
+        },
+        {
+          "token": "could",
+          "p": 0.02023121387283237
+        },
+        {
+          "token": "wanna",
+          "p": 0.02023121387283237
+        },
+        {
+          "token": "say",
+          "p": 0.02023121387283237
+        },
+        {
+          "token": "were",
+          "p": 0.019267822736030827
+        },
+        {
+          "token": "can't",
+          "p": 0.018304431599229287
+        }
+      ],
+      "featured": false
+    },
+    {
+      "prompt": "come back",
+      "continuation": "to me",
+      "usedContext": "back",
+      "nextTokenDist": [
+        {
+          "token": "</s>",
+          "p": 0.2857142857142857
+        },
+        {
+          "token": "to",
+          "p": 0.11428571428571428
+        },
+        {
+          "token": "again",
+          "p": 0.08571428571428572
+        },
+        {
+          "token": "you",
+          "p": 0.08571428571428572
+        },
+        {
+          "token": "together",
+          "p": 0.05714285714285714
+        },
+        {
+          "token": "home",
+          "p": 0.05714285714285714
+        },
+        {
+          "token": "in",
+          "p": 0.05714285714285714
+        },
+        {
+          "token": "of",
+          "p": 0.05714285714285714
+        },
+        {
+          "token": "i",
+          "p": 0.02857142857142857
+        },
+        {
+          "token": "words",
+          "p": 0.02857142857142857
+        }
+      ],
+      "featured": false
+    }
+  ],
+  "explorer": [
+    {
+      "context": "i don't",
+      "byN": {
+        "1": [
+          {
+            "token": "</s>",
+            "p": 0.14236272684969753
+          },
+          {
+            "token": "the",
+            "p": 0.050953932061423915
+          },
+          {
+            "token": "you",
+            "p": 0.030188459748720337
+          },
+          {
+            "token": "i",
+            "p": 0.025971382038157284
+          },
+          {
+            "token": "and",
+            "p": 0.02236505351326198
+          },
+          {
+            "token": "to",
+            "p": 0.01858422522103304
+          },
+          {
+            "token": "a",
+            "p": 0.018496975337366217
+          },
+          {
+            "token": "me",
+            "p": 0.014832480223359703
+          },
+          {
+            "token": "in",
+            "p": 0.014454397394136807
+          },
+          {
+            "token": "my",
+            "p": 0.013232899022801304
+          }
+        ],
+        "2": [
+          {
+            "token": "wanna",
+            "p": 0.2805755395683453
+          },
+          {
+            "token": "know",
+            "p": 0.17985611510791366
+          },
+          {
+            "token": "need",
+            "p": 0.1510791366906475
+          },
+          {
+            "token": "let",
+            "p": 0.050359712230215826
+          },
+          {
+            "token": "it",
+            "p": 0.02877697841726619
+          },
+          {
+            "token": "want",
+            "p": 0.02877697841726619
+          },
+          {
+            "token": "come",
+            "p": 0.02877697841726619
+          },
+          {
+            "token": "feel",
+            "p": 0.02158273381294964
+          },
+          {
+            "token": "have",
+            "p": 0.02158273381294964
+          },
+          {
+            "token": "get",
+            "p": 0.02158273381294964
+          }
+        ],
+        "3": [
+          {
+            "token": "wanna",
+            "p": 0.5192307692307693
+          },
+          {
+            "token": "know",
+            "p": 0.19230769230769232
+          },
+          {
+            "token": "feel",
+            "p": 0.038461538461538464
+          },
+          {
+            "token": "think",
+            "p": 0.038461538461538464
+          },
+          {
+            "token": "so",
+            "p": 0.038461538461538464
+          },
+          {
+            "token": "want",
+            "p": 0.038461538461538464
+          },
+          {
+            "token": "even",
+            "p": 0.019230769230769232
+          },
+          {
+            "token": "regret",
+            "p": 0.019230769230769232
+          },
+          {
+            "token": "have",
+            "p": 0.019230769230769232
+          },
+          {
+            "token": "really",
+            "p": 0.019230769230769232
+          }
+        ],
+        "4": [
+          {
+            "token": "wanna",
+            "p": 0.5192307692307693
+          },
+          {
+            "token": "know",
+            "p": 0.19230769230769232
+          },
+          {
+            "token": "feel",
+            "p": 0.038461538461538464
+          },
+          {
+            "token": "think",
+            "p": 0.038461538461538464
+          },
+          {
+            "token": "so",
+            "p": 0.038461538461538464
+          },
+          {
+            "token": "want",
+            "p": 0.038461538461538464
+          },
+          {
+            "token": "even",
+            "p": 0.019230769230769232
+          },
+          {
+            "token": "regret",
+            "p": 0.019230769230769232
+          },
+          {
+            "token": "have",
+            "p": 0.019230769230769232
+          },
+          {
+            "token": "really",
+            "p": 0.019230769230769232
+          }
+        ]
+      }
+    },
+    {
+      "context": "summer",
+      "byN": {
+        "1": [
+          {
+            "token": "</s>",
+            "p": 0.14236272684969753
+          },
+          {
+            "token": "the",
+            "p": 0.050953932061423915
+          },
+          {
+            "token": "you",
+            "p": 0.030188459748720337
+          },
+          {
+            "token": "i",
+            "p": 0.025971382038157284
+          },
+          {
+            "token": "and",
+            "p": 0.02236505351326198
+          },
+          {
+            "token": "to",
+            "p": 0.01858422522103304
+          },
+          {
+            "token": "a",
+            "p": 0.018496975337366217
+          },
+          {
+            "token": "me",
+            "p": 0.014832480223359703
+          },
+          {
+            "token": "in",
+            "p": 0.014454397394136807
+          },
+          {
+            "token": "my",
+            "p": 0.013232899022801304
+          }
+        ],
+        "2": [
+          {
+            "token": "night",
+            "p": 0.6666666666666666
+          },
+          {
+            "token": "breeze",
+            "p": 0.3333333333333333
+          }
+        ],
+        "3": [
+          {
+            "token": "night",
+            "p": 0.6666666666666666
+          },
+          {
+            "token": "breeze",
+            "p": 0.3333333333333333
+          }
+        ],
+        "4": [
+          {
+            "token": "night",
+            "p": 0.6666666666666666
+          },
+          {
+            "token": "breeze",
+            "p": 0.3333333333333333
+          }
+        ]
+      }
+    },
+    {
+      "context": "my dog",
+      "byN": {
+        "1": [
+          {
+            "token": "</s>",
+            "p": 0.14236272684969753
+          },
+          {
+            "token": "the",
+            "p": 0.050953932061423915
+          },
+          {
+            "token": "you",
+            "p": 0.030188459748720337
+          },
+          {
+            "token": "i",
+            "p": 0.025971382038157284
+          },
+          {
+            "token": "and",
+            "p": 0.02236505351326198
+          },
+          {
+            "token": "to",
+            "p": 0.01858422522103304
+          },
+          {
+            "token": "a",
+            "p": 0.018496975337366217
+          },
+          {
+            "token": "me",
+            "p": 0.014832480223359703
+          },
+          {
+            "token": "in",
+            "p": 0.014454397394136807
+          },
+          {
+            "token": "my",
+            "p": 0.013232899022801304
+          }
+        ],
+        "2": [
+          {
+            "token": "devil",
+            "p": 0.21428571428571427
+          },
+          {
+            "token": "died",
+            "p": 0.14285714285714285
+          },
+          {
+            "token": "barks",
+            "p": 0.14285714285714285
+          },
+          {
+            "token": "at",
+            "p": 0.14285714285714285
+          },
+          {
+            "token": "barking",
+            "p": 0.14285714285714285
+          },
+          {
+            "token": "walks",
+            "p": 0.14285714285714285
+          },
+          {
+            "token": "opens",
+            "p": 0.07142857142857142
+          }
+        ],
+        "3": [
+          {
+            "token": "barks",
+            "p": 0.5
+          },
+          {
+            "token": "barking",
+            "p": 0.5
+          }
+        ],
+        "4": [
+          {
+            "token": "barks",
+            "p": 0.5
+          },
+          {
+            "token": "barking",
+            "p": 0.5
+          }
+        ]
+      }
+    },
+    {
+      "context": "you are",
+      "byN": {
+        "1": [
+          {
+            "token": "</s>",
+            "p": 0.14236272684969753
+          },
+          {
+            "token": "the",
+            "p": 0.050953932061423915
+          },
+          {
+            "token": "you",
+            "p": 0.030188459748720337
+          },
+          {
+            "token": "i",
+            "p": 0.025971382038157284
+          },
+          {
+            "token": "and",
+            "p": 0.02236505351326198
+          },
+          {
+            "token": "to",
+            "p": 0.01858422522103304
+          },
+          {
+            "token": "a",
+            "p": 0.018496975337366217
+          },
+          {
+            "token": "me",
+            "p": 0.014832480223359703
+          },
+          {
+            "token": "in",
+            "p": 0.014454397394136807
+          },
+          {
+            "token": "my",
+            "p": 0.013232899022801304
+          }
+        ],
+        "2": [
+          {
+            "token": "nothing",
+            "p": 0.12371134020618557
+          },
+          {
+            "token": "the",
+            "p": 0.1134020618556701
+          },
+          {
+            "token": "you",
+            "p": 0.05154639175257732
+          },
+          {
+            "token": "burning",
+            "p": 0.041237113402061855
+          },
+          {
+            "token": "her's",
+            "p": 0.041237113402061855
+          },
+          {
+            "token": "always",
+            "p": 0.041237113402061855
+          },
+          {
+            "token": "no",
+            "p": 0.030927835051546393
+          },
+          {
+            "token": "going",
+            "p": 0.030927835051546393
+          },
+          {
+            "token": "dead",
+            "p": 0.020618556701030927
+          },
+          {
+            "token": "</s>",
+            "p": 0.020618556701030927
+          }
+        ],
+        "3": [
+          {
+            "token": "nothing",
+            "p": 0.2727272727272727
+          },
+          {
+            "token": "going",
+            "p": 0.13636363636363635
+          },
+          {
+            "token": "</s>",
+            "p": 0.09090909090909091
+          },
+          {
+            "token": "changing",
+            "p": 0.09090909090909091
+          },
+          {
+            "token": "the",
+            "p": 0.09090909090909091
+          },
+          {
+            "token": "sweet",
+            "p": 0.045454545454545456
+          },
+          {
+            "token": "as",
+            "p": 0.045454545454545456
+          },
+          {
+            "token": "thinking",
+            "p": 0.045454545454545456
+          },
+          {
+            "token": "always",
+            "p": 0.045454545454545456
+          },
+          {
+            "token": "right",
+            "p": 0.045454545454545456
+          }
+        ],
+        "4": [
+          {
+            "token": "nothing",
+            "p": 0.2727272727272727
+          },
+          {
+            "token": "going",
+            "p": 0.13636363636363635
+          },
+          {
+            "token": "</s>",
+            "p": 0.09090909090909091
+          },
+          {
+            "token": "changing",
+            "p": 0.09090909090909091
+          },
+          {
+            "token": "the",
+            "p": 0.09090909090909091
+          },
+          {
+            "token": "sweet",
+            "p": 0.045454545454545456
+          },
+          {
+            "token": "as",
+            "p": 0.045454545454545456
+          },
+          {
+            "token": "thinking",
+            "p": 0.045454545454545456
+          },
+          {
+            "token": "always",
+            "p": 0.045454545454545456
+          },
+          {
+            "token": "right",
+            "p": 0.045454545454545456
+          }
+        ]
+      }
+    },
+    {
+      "context": "come back",
+      "byN": {
+        "1": [
+          {
+            "token": "</s>",
+            "p": 0.14236272684969753
+          },
+          {
+            "token": "the",
+            "p": 0.050953932061423915
+          },
+          {
+            "token": "you",
+            "p": 0.030188459748720337
+          },
+          {
+            "token": "i",
+            "p": 0.025971382038157284
+          },
+          {
+            "token": "and",
+            "p": 0.02236505351326198
+          },
+          {
+            "token": "to",
+            "p": 0.01858422522103304
+          },
+          {
+            "token": "a",
+            "p": 0.018496975337366217
+          },
+          {
+            "token": "me",
+            "p": 0.014832480223359703
+          },
+          {
+            "token": "in",
+            "p": 0.014454397394136807
+          },
+          {
+            "token": "my",
+            "p": 0.013232899022801304
+          }
+        ],
+        "2": [
+          {
+            "token": "</s>",
+            "p": 0.2857142857142857
+          },
+          {
+            "token": "to",
+            "p": 0.11428571428571428
+          },
+          {
+            "token": "again",
+            "p": 0.08571428571428572
+          },
+          {
+            "token": "you",
+            "p": 0.08571428571428572
+          },
+          {
+            "token": "together",
+            "p": 0.05714285714285714
+          },
+          {
+            "token": "home",
+            "p": 0.05714285714285714
+          },
+          {
+            "token": "in",
+            "p": 0.05714285714285714
+          },
+          {
+            "token": "of",
+            "p": 0.05714285714285714
+          },
+          {
+            "token": "i",
+            "p": 0.02857142857142857
+          },
+          {
+            "token": "words",
+            "p": 0.02857142857142857
+          }
+        ],
+        "3": [
+          {
+            "token": "you",
+            "p": 1.0
+          }
+        ],
+        "4": [
+          {
+            "token": "you",
+            "p": 1.0
+          }
+        ]
+      }
+    }
+  ],
+  "mashup": {
+    "note": "Buck Meek lines interleaved with Lenker/Big Thief. Trigram samples shift register without a seamless shared voice.",
+    "samples": [
+      {
+        "text": "one two",
+        "copy": 2
+      },
+      {
+        "text": "now you're out of body",
+        "copy": 4
+      },
+      {
+        "text": "rubbing up against the edges of my life",
+        "copy": 6
+      },
+      {
+        "text": "would you smile forever never cry",
+        "copy": 6
+      },
+      {
+        "text": "oh how my heart was beatin",
+        "copy": 6
+      },
+      {
+        "text": "every dream and waking hour",
+        "copy": 5
+      }
+    ]
+  },
+  "keyFinding": "The 4-gram sounds most like a song because it remembered the most. The mash-up shifts register without becoming a shared voice.",
+  "whatChanged": "Re-ran the homework n-gram pipeline with fixed seeds to ship next-token distributions, a fuller sample ladder, and prompt continuations."
+}

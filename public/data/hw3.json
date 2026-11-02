@@ -1,0 +1,566 @@
+{
+  "title": "Like a Rolling Stone",
+  "document": "Rolling Stone Magazine #382, November 11, 1982",
+  "pages": {
+    "page_07": {
+      "label": "Table of Contents",
+      "gtWords": 235,
+      "image": "/ocr-pages/page_07.png"
+    },
+    "page_29": {
+      "label": "The Who feature",
+      "gtWords": 341,
+      "image": "/ocr-pages/page_29.png"
+    }
+  },
+  "scores": [
+    {
+      "page": "page_07",
+      "tesseract": {
+        "CER": 0.9879288437102922,
+        "WER": 1.1872340425531915
+      },
+      "tesseract_repaired": {
+        "CER": 0.945997458703939,
+        "WER": 1.0893617021276596
+      },
+      "trocr": {
+        "CER": 1.410419,
+        "WER": 2.012766
+      }
+    },
+    {
+      "page": "page_29",
+      "tesseract": {
+        "CER": 3.8874666666666666,
+        "WER": 3.8152492668621703
+      },
+      "tesseract_repaired": {
+        "CER": 3.835733333333333,
+        "WER": 3.7038123167155423
+      },
+      "trocr": {
+        "CER": 2.877867,
+        "WER": 2.68915
+      }
+    }
+  ],
+  "lineErrors": {
+    "page_07": [
+      {
+        "i": 0,
+        "ref": "TABLE OF CONTENTS",
+        "hyp": "ls",
+        "cer": 1.0
+      },
+      {
+        "i": 1,
+        "ref": "Daltrey and Townshend agree the Who ",
+        "hyp": "TABLE OF CONTENTS",
+        "cer": 0.9428571428571428
+      },
+      {
+        "i": 2,
+        "ref": "should bow out on top...page 24",
+        "hyp": "i.",
+        "cer": 0.967741935483871
+      },
+      {
+        "i": 3,
+        "ref": "On her daring new album,",
+        "hyp": "Daltrey and Townshend agree the Who",
+        "cer": 1.1666666666666667
+      },
+      {
+        "i": 4,
+        "ref": "Linda Ronstadt demands affection...page 55",
+        "hyp": "should bow out on top...page 24",
+        "cer": 0.6428571428571429
+      },
+      {
+        "i": 5,
+        "ref": "Director Herzog and actor Kinski share ",
+        "hyp": "ISSUE 382: “ALL THE NEWS THAT FITS”",
+        "cer": 0.8947368421052632
+      },
+      {
+        "i": 6,
+        "ref": "the burden of dreams...page 20",
+        "hyp": "NATIONAL AFFAIRS",
+        "cer": 0.9666666666666667
+      },
+      {
+        "i": 7,
+        "ref": "ISSUE 382: \"ALL THE NEWS THAT FITS\"",
+        "hyp": "CAMPAIGN LIES by William Greider ..........2.4.4. 8",
+        "cer": 1.3142857142857143
+      },
+      {
+        "i": 8,
+        "ref": "NATIONAL AFFAIRS",
+        "hyp": "The National Academy of Modern Political Communications announces this",
+        "cer": 4.1875
+      },
+      {
+        "i": 9,
+        "ref": "CAMPAIGN LIES by William Greider................8",
+        "hyp": "year’s award winners for creative campaign practices—and other dirty tricks.",
+        "cer": 1.346938775510204
+      },
+      {
+        "i": 10,
+        "ref": "The National Academy of Modern Political Communications announces this ",
+        "hyp": "FEATURES",
+        "cer": 0.9857142857142858
+      },
+      {
+        "i": 11,
+        "ref": "year's award winners for creative campaign--and other dirty tricks.",
+        "hyp": "AMERICA’S GAY WOMEN by Lindsy Van Gelder... . . 13",
+        "cer": 0.8656716417910447
+      },
+      {
+        "i": 12,
+        "ref": "FEATURES",
+        "hyp": "Lesbianism is growing. Thanks to the sexual revolution and the gay-rights",
+        "cer": 9.0
+      },
+      {
+        "i": 13,
+        "ref": "AMERICA'S GAY WOMEN by Lindsy Van Gelder.....13",
+        "hyp": "movement, women who prefer women no longer have to hide their feelings.",
+        "cer": 1.2765957446808511
+      },
+      {
+        "i": 14,
+        "ref": "Lesbianism is growing. Thanks to the sexual revoliution and the gay-rights",
+        "hyp": "WERNER HERZOG by Jonathan Cott..........0.4.. 20",
+        "cer": 0.8783783783783784
+      },
+      {
+        "i": 15,
+        "ref": "movement, women who prefer women no longer have to hide their feelings.",
+        "hyp": "Five years in the making, his new film was plagued by disease, natural disasters",
+        "cer": 0.8732394366197183
+      },
+      {
+        "i": 16,
+        "ref": "WERNER HERZOG by Jonathan Cott...............20",
+        "hyp": "and a border war. The director tells how he wrested Fitgcarraldo from the jungle.",
+        "cer": 1.553191489361702
+      },
+      {
+        "i": 17,
+        "ref": "Five years in the making, his new film was plagued by disease, natural disasters",
+        "hyp": "THE WHO: THE LAST TIME AROUND",
+        "cer": 0.9375
+      },
+      {
+        "i": 18,
+        "ref": "and a border war. The director tells how he wrestled Fitzcarraldo from the jungle.",
+        "hyp": "by Kurt Loder",
+        "cer": 0.9024390243902439
+      },
+      {
+        "i": 19,
+        "ref": "THE WHO: THE LAST TIME AROUND",
+        "hyp": "Why one of the world’s great live acts is calling it quits—sort of.",
+        "cer": 2.1379310344827585
+      },
+      {
+        "i": 20,
+        "ref": "by Kurt Loder...................................24",
+        "hyp": "RANDOM NOTES",
+        "cer": 0.98
+      },
+      {
+        "i": 21,
+        "ref": "Why one of the world's great live acts is calling it quits--sort of.",
+        "hyp": "JONI MITCHELL’S ‘WILD THINGS RUN FAST’... 30",
+        "cer": 0.9117647058823529
+      },
+      {
+        "i": 22,
+        "ref": "RANDOM NOTES",
+        "hyp": "Also, Dan Aykroyd teams up with Howard Hesseman, and the Go-Go’s pair off",
+        "cer": 5.916666666666667
+      },
+      {
+        "i": 23,
+        "ref": "JONI MITCHELL'S 'WILD THINGS RUN FAST'...30",
+        "hyp": "with the Dodgers. Plus, news on Elvis Costello, John Travolta, Linda Ronstadt",
+        "cer": 1.6511627906976745
+      },
+      {
+        "i": 24,
+        "ref": "Also, Dan Aykroyd teams up with Howard Hesseman, and the Go-Go's pair off ",
+        "hyp": "and—who else? — David Crosby.",
+        "cer": 0.8082191780821918
+      },
+      {
+        "i": 25,
+        "ref": "with the Dodgers. Plus, news on Elvis Costello, John Travolta, Linda Ronstadt",
+        "hyp": "MOVIES",
+        "cer": 0.987012987012987
+      },
+      {
+        "i": 26,
+        "ref": "and--who else?--David Crosby.",
+        "hyp": "‘EATING RAOUL’ by Paul Scanlon. ...........0.0005 34",
+        "cer": 1.6551724137931034
+      },
+      {
+        "i": 27,
+        "ref": "MOVIES",
+        "hyp": "A look at the making of a black-comedy feast.Also, Michael Sragow reviews My",
+        "cer": 12.333333333333334
+      },
+      {
+        "i": 28,
+        "ref": "'EATING RAOUL' by Paul Scanlon..................34",
+        "hyp": "Favorite Year, lighthearted nostalgia about the era when TV supplanted movies",
+        "cer": 1.4
+      },
+      {
+        "i": 29,
+        "ref": "A look at the making of a black-comedy feast. Also, Michael Sragow reviews My",
+        "hyp": "as the purveyor of American dreams. Plus, Fitgcarraldo, Burden of Dreams and",
+        "cer": 0.7792207792207793
+      },
+      {
+        "i": 30,
+        "ref": "Favorite Year, lighthearted nostalgia about the era when TV supplanted movies ",
+        "hyp": "First Blood.",
+        "cer": 0.8961038961038961
+      },
+      {
+        "i": 31,
+        "ref": "as the purveyor of American dreams. Plus, Fitzcarraldo, Burden of Dreams and ",
+        "hyp": "Director Herzog and actor Kinski share",
+        "cer": 0.7894736842105263
+      },
+      {
+        "i": 32,
+        "ref": "First Blood.",
+        "hyp": "the burden of dreams...page 20",
+        "cer": 2.25
+      }
+    ],
+    "page_29": [
+      {
+        "i": 0,
+        "ref": "shend himself. Finally, late last year, the tormented guitarist ",
+        "hyp": "shend himself. Finally, late last year, the tormented guitarist",
+        "cer": 0.0
+      },
+      {
+        "i": 1,
+        "ref": "hit bottom. After a night of furious dissipation at London's ",
+        "hyp": "hit bottom. After a night of furious dissipation at London’s",
+        "cer": 0.016666666666666666
+      },
+      {
+        "i": 2,
+        "ref": "Club for Heroes, Townshend suddenly turned blue and ",
+        "hyp": "Club for Heroes, Townshend suddenly turned blue and",
+        "cer": 0.0
+      },
+      {
+        "i": 3,
+        "ref": "collapsed, and had to be rushed to the nearest hospital.",
+        "hyp": "collapsed, and had to be rushed to the nearest hospital.",
+        "cer": 0.0
+      },
+      {
+        "i": 4,
+        "ref": "    Daltrey couldn’t take it anymore. Something drastic had ",
+        "hyp": "Daltrey couldn’t take it anymore. Something drastic had",
+        "cer": 0.0
+      },
+      {
+        "i": 5,
+        "ref": "to be done, and he knew, at last, what it was. One night during ",
+        "hyp": "to be done, and he knew, at last, what it was. One night during",
+        "cer": 0.0
+      },
+      {
+        "i": 6,
+        "ref": "Townshend’s extended convalescence, the Who held a meet-",
+        "hyp": "Townshend’s extended convalescence, the Who held a meet-",
+        "cer": 0.0
+      },
+      {
+        "i": 7,
+        "ref": "ing at their manager’s house, and Daltrey dropped the bomb:",
+        "hyp": "ing at their manager’s house, and Daltrey dropped the bomb:",
+        "cer": 0.0
+      },
+      {
+        "i": 8,
+        "ref": "\"I don’t want to tour anymore.\"",
+        "hyp": "“I don’t want to tour anymore.” :",
+        "cer": 0.12903225806451613
+      },
+      {
+        "i": 9,
+        "ref": "    For a man who still loved the Who as passionately as he ",
+        "hyp": "For a man who still loved the Who as passionately as he",
+        "cer": 0.0
+      },
+      {
+        "i": 10,
+        "ref": "ever had in his teens--maybe more—-those were the saddest ",
+        "hyp": "ever had in his teens—maybe more—those were the saddest",
+        "cer": 0.05263157894736842
+      },
+      {
+        "i": 11,
+        "ref": "words in the world. But if Townshend were to be stopped ",
+        "hyp": "words in the world. But if Townshend were to be stopped",
+        "cer": 0.0
+      },
+      {
+        "i": 12,
+        "ref": "from following Who drummer Keith Moon into an early ",
+        "hyp": "from following Who drummer Keith Moon into an early",
+        "cer": 0.0
+      },
+      {
+        "i": 13,
+        "ref": "grave, Daltrey felt he had no other choice.",
+        "hyp": "grave, Daltrey felt he had no other choice.",
+        "cer": 0.0
+      },
+      {
+        "i": 14,
+        "ref": "    \"See, Pete didn’t want to tour for years there before ",
+        "hyp": "“See, Pete didn’t want to tour for years there before",
+        "cer": 0.018867924528301886
+      },
+      {
+        "i": 15,
+        "ref": "Moonie died,\" he explains. \"I was the instigator--I was ",
+        "hyp": "Moonie died,” he explains. “I was the instigator —I was",
+        "cer": 0.07272727272727272
+      },
+      {
+        "i": 16,
+        "ref": "responsible for getting him back on the road after 1978. And ",
+        "hyp": "responsible for getting him back on the road after 1978. And",
+        "cer": 0.0
+      },
+      {
+        "i": 17,
+        "ref": "after three tours of America, he was a bloody junkie. I felt ",
+        "hyp": "after three tours of America, he was a bloody junkie. I felt",
+        "cer": 0.0
+      },
+      {
+        "i": 18,
+        "ref": "responsible for that. It was really hard to live with, and I just ",
+        "hyp": "responsible for that. It was really hard to live with, and I just",
+        "cer": 0.0
+      },
+      {
+        "i": 19,
+        "ref": "don’t want to do it anymore. I mean, I think the world of that ",
+        "hyp": "don’t want to do it anymore. I mean, I think the world of that",
+        "cer": 0.0
+      },
+      {
+        "i": 20,
+        "ref": "guy. I think enough of him to stop the Who.\"",
+        "hyp": "guy. I think enough of him to stop the Who.”",
+        "cer": 0.022727272727272728
+      },
+      {
+        "i": 21,
+        "ref": "    Not stop it cold, of course. They could do one last world ",
+        "hyp": "Not stop it cold, of course. They could do one last world",
+        "cer": 0.0
+      },
+      {
+        "i": 22,
+        "ref": "tour—-as long as they called it that, and knew it was fini, they ",
+        "hyp": "tour—as long as they called it that, and knew it was fini, they",
+        "cer": 0.015625
+      },
+      {
+        "i": 23,
+        "ref": "could deal with it. \"I want to end the group in the right way,\" ",
+        "hyp": "could deal with it. “I want to end the group in the right way,”",
+        "cer": 0.031746031746031744
+      },
+      {
+        "i": 24,
+        "ref": "says Daltrey. \"On top, before we become parodies of our-",
+        "hyp": "says Daltrey. “On top, before we become parodies of our-",
+        "cer": 0.017857142857142856
+      },
+      {
+        "i": 25,
+        "ref": "selves. Then we can give Pete some freedom, because he ",
+        "hyp": "selves. Then we can give Pete some freedom, because he",
+        "cer": 0.0
+      },
+      {
+        "i": 26,
+        "ref": "deserves it.\"",
+        "hyp": "deserves it.”",
+        "cer": 0.07692307692307693
+      },
+      {
+        "i": 27,
+        "ref": "    Townshend is still struck by Daltrey’s selfless and loving ",
+        "hyp": "Townshend is still struck by Daltrey’s selfless and loving",
+        "cer": 0.0
+      },
+      {
+        "i": 28,
+        "ref": "gesture. The two have had many a well-publicized row over ",
+        "hyp": "gesture. The two have had many a well-publicized row over",
+        "cer": 0.0
+      },
+      {
+        "i": 29,
+        "ref": "the years, and yet, says Pete, \"Roger was the most vociferous ",
+        "hyp": "the years, and yet, says Pete, “Roger was the most vociferous",
+        "cer": 0.01639344262295082
+      },
+      {
+        "i": 30,
+        "ref": "member of the group in saying that he would do anything, ",
+        "hyp": "member of the group in saying that he would do anything,",
+        "cer": 0.0
+      },
+      {
+        "i": 31,
+        "ref": "give up anything—-even give up the group-—if it would make ",
+        "hyp": "give up anything—even give up the group—if it would make",
+        "cer": 0.034482758620689655
+      },
+      {
+        "i": 32,
+        "ref": "me happy, you know? If it would get me happiness.\"",
+        "hyp": "me happy, you know? If it would get me happiness.”",
+        "cer": 0.02
+      },
+      {
+        "i": 33,
+        "ref": "    The question now, of course, is: will it?",
+        "hyp": "The question now, of course, is: will it?",
+        "cer": 0.0
+      }
+    ]
+  },
+  "snippets": {
+    "page_07": {
+      "gt": "TABLE OF CONTENTS\n\nDaltrey and Townshend agree the Who \nshould bow out on top...page 24\n\nOn her daring new album,\nLinda Ronstadt demands affection...page 55\n\nDirector Herzog and actor Kinski share \nthe burden of dreams...page 20\n\nISSUE 382: \"ALL THE NEWS THAT FITS\"\nNATIONAL AFFAIRS\nCAMPAIGN LIES by William Greider................8\nThe National Academy of Modern Political Communications announces this \nyear's award winners for creative campaign--and other dirty tricks.\n\nFEATURES\nAMERICA'S GAY WOMEN by Lindsy Van Gelder.....13\nLesbianism is growing. Thanks to the sexual revoliution and the gay-rights\nmovement, women who prefer women no longer have to hide their feelings.\n\nWERNER HERZOG by Jonathan Cott...............20\nFive years in the making, his new film was plagued by disease, natural disasters\nand a border war. The director tells how he wrestled Fitzcarraldo from the jungle.\n\nTHE WHO:",
+      "tesseract": "ls\n\nTABLE OF CONTENTS\n\ni.\n\nDaltrey and Townshend agree the Who\nshould bow out on top...page 24\n\nISSUE 382: “ALL THE NEWS THAT FITS”\n\nNATIONAL AFFAIRS\n\nCAMPAIGN LIES by William Greider ..........2.4.4. 8\nThe National Academy of Modern Political Communications announces this\nyear’s award winners for creative campaign practices—and other dirty tricks.\n\nFEATURES\n\nAMERICA’S GAY WOMEN by Lindsy Van Gelder... . . 13\n\nLesbianism is growing. Thanks to the sexual revolution and the gay-rights\nmovement, women who prefer women no longer have to hide their feelings.\n\nWERNER HERZOG by Jonathan Cott..........0.4.. 20\nFive years in the making, his new film was plagued by disease, natural disasters\nand a border war. The director tells how he wrested Fitgcarraldo from the jungle.\n\nTHE WHO: THE LAST TIME AROUND\nby Kurt Loder\n\nWhy one of the world’s great live acts is calling it quits—sort of.\n\nRANDOM NOTES",
+      "repaired": "ls\n\nTABLE OF CONTENTS\n\ni.\n\nDaltrey and Townshend agree the Who\nshould bow out on top...page 24\n\nISSUE 382: \"ALL THE NEWS THAT FITS\"\n\nNATIONAL AFFAIRS\n\nCAMPAIGN LIES by William Greider ...The National Academy of Modern Political Communications announces this\nyear’s award winners for creative campaign practices—and other dirty tricks.\n\nFEATURES\n\nAMERICA’S GAY WOMEN by Lindsy Van Gelder...Lesbianism is growing. Thanks to the sexual revolution and the gay-rights\nmovement, women who prefer women no longer have to hide their feelings.\n\nWERNER HERZOG by Jonathan Cott...Five years in the making, his new film was plagued by disease, natural disasters\nand a border war. The director tells how he wrested Fitgcarraldo from the jungle.\n\nTHE WHO: THE LAST TIME AROUND\nby Kurt Loder\n\nWhy one of the world’s great live acts is calling it quits—sort of.\n\nRANDOM NOTES\n\nJONI MITCHELL’S ‘WILD THINGS RUN FAST’."
+    },
+    "page_29": {
+      "gt": "shend himself. Finally, late last year, the tormented guitarist \nhit bottom. After a night of furious dissipation at London's \nClub for Heroes, Townshend suddenly turned blue and \ncollapsed, and had to be rushed to the nearest hospital.\n    Daltrey couldn’t take it anymore. Something drastic had \nto be done, and he knew, at last, what it was. One night during \nTownshend’s extended convalescence, the Who held a meet-\ning at their manager’s house, and Daltrey dropped the bomb:\n\"I don’t want to tour anymore.\"\n    For a man who still loved the Who as passionately as he \never had in his teens--maybe more—-those were the saddest \nwords in the world. But if Townshend were to be stopped \nfrom following Who drummer Keith Moon into an early \ngrave, Daltrey felt he had no other choice.\n    \"See, Pete didn’t want to tour for years there before \nMoonie died,\" he explains. \"I was the instigator--I was",
+      "tesseract": "shend himself. Finally, late last year, the tormented guitarist\nhit bottom. After a night of furious dissipation at London’s\nClub for Heroes, Townshend suddenly turned blue and\ncollapsed, and had to be rushed to the nearest hospital.\n\nDaltrey couldn’t take it anymore. Something drastic had\nto be done, and he knew, at last, what it was. One night during\nTownshend’s extended convalescence, the Who held a meet-\ning at their manager’s house, and Daltrey dropped the bomb:\n“I don’t want to tour anymore.” :\n\nFor a man who still loved the Who as passionately as he\never had in his teens—maybe more—those were the saddest\nwords in the world. But if Townshend were to be stopped\nfrom following Who drummer Keith Moon into an early\ngrave, Daltrey felt he had no other choice.\n\n“See, Pete didn’t want to tour for years there before\nMoonie died,” he explains. “I was the instigator —I was\nresponsible for ge",
+      "repaired": "shend himself. Finally, late last year, the tormented guitarist\nhit bottom. After a night of furious dissipation at London’s\nClub for Heroes, Townshend suddenly turned blue and\ncollapsed, and had to be rushed to the nearest hospital.\n\nDaltrey couldn’t take it anymore. Something drastic had\nto be done, and he knew, at last, what it was. One night during\nTownshend’s extended convalescence, the Who held a meeting at their manager’s house, and Daltrey dropped the bomb:\n\"I don’t want to tour anymore.\" :\n\nFor a man who still loved the Who as passionately as he\never had in his teens—maybe more—those were the saddest\nwords in the world. But if Townshend were to be stopped\nfrom following Who drummer Keith Moon into an early\ngrave, Daltrey felt he had no other choice.\n\n\"See, Pete didn’t want to tour for years there before\nMoonie died,\" he explains. \"I was the instigator —I was\nresponsible for gett"
+    }
+  },
+  "dictionaryHitRate": [
+    {
+      "page": "page_29",
+      "rate": 0.941354292623942,
+      "tokens": 1654,
+      "test": true
+    },
+    {
+      "page": "page_07",
+      "rate": 0.8714285714285714,
+      "tokens": 420,
+      "test": true
+    },
+    {
+      "page": "page_42",
+      "rate": 0.9420756234915527,
+      "tokens": 1243
+    },
+    {
+      "page": "page_43",
+      "rate": 0.8813559322033898,
+      "tokens": 59
+    },
+    {
+      "page": "page_44",
+      "rate": 0.9464052287581699,
+      "tokens": 765
+    },
+    {
+      "page": "page_45",
+      "rate": 0.9436152570480929,
+      "tokens": 1206
+    },
+    {
+      "page": "page_46",
+      "rate": 0.8614457831325302,
+      "tokens": 166
+    },
+    {
+      "page": "page_47",
+      "rate": 0.945862335653519,
+      "tokens": 1293
+    },
+    {
+      "page": "page_48",
+      "rate": 0.984375,
+      "tokens": 64
+    },
+    {
+      "page": "page_49",
+      "rate": 0.9095022624434389,
+      "tokens": 221
+    },
+    {
+      "page": "page_50",
+      "rate": 0.8860971524288107,
+      "tokens": 597
+    },
+    {
+      "page": "page_51",
+      "rate": 0.9558823529411765,
+      "tokens": 952
+    }
+  ],
+  "artistMentions": [
+    {
+      "name": "The Who",
+      "count": 25
+    },
+    {
+      "name": "Stones",
+      "count": 5
+    },
+    {
+      "name": "Dylan",
+      "count": 5
+    },
+    {
+      "name": "Townshend",
+      "count": 2
+    }
+  ],
+  "trocrNote": "TrOCR CER/WER kept from the original notebook run (microsoft/trocr-base-printed on Tesseract line boxes). Tesseract + regex recomputed locally for the portfolio.",
+  "worstLines": [
+    {
+      "engine": "Tesseract",
+      "page": "page_07",
+      "cer": 12.333333333333334,
+      "example": {
+        "i": 20,
+        "ref": "by Kurt Loder...................................24",
+        "hyp": "RANDOM NOTES",
+        "cer": 0.98
+      }
+    }
+  ],
+  "keyFinding": "Even deep in the issue, The Who still dominate the cleaned text. Layout, not brand loyalty, decides which OCR engine wins a page.",
+  "whatChanged": "Re-ran Tesseract + regex repair on the original page renders, exposed scan-to-text with live CER, and kept TrOCR notebook scores with an explicit source note."
+}

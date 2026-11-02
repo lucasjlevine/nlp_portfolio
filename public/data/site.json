@@ -1,0 +1,44 @@
+{
+  "siteTitle": "NLP Portfolio Showcase",
+  "student": "Lucas Levine",
+  "course": "Natural Language Processing",
+  "curator": "This portfolio follows language I already loved before I could measure it: how partners talk on Couples Therapy, and the lyric world of Adrianne Lenker and Big Thief, with a stop in a 1982 Rolling Stone to get text off a scanned page. Two intimate corpora, six methods (human coding, prompt ablation, OCR, surface similarity, embeddings, and n-gram generation). Each time I was checking where a surface pattern stops being enough.",
+  "chapters": [
+    {
+      "id": "hw1",
+      "num": 1,
+      "title": "Coding Couples Therapy",
+      "tag": "Thematic analysis"
+    },
+    {
+      "id": "hw2",
+      "num": 2,
+      "title": "Can Just Anyone be a Therapist?",
+      "tag": "Prompt engineering"
+    },
+    {
+      "id": "hw3",
+      "num": 3,
+      "title": "Like a Rolling Stone",
+      "tag": "OCR"
+    },
+    {
+      "id": "hw4",
+      "num": 4,
+      "title": "Where Does Alike Stop?",
+      "tag": "Similarity"
+    },
+    {
+      "id": "hw5",
+      "num": 5,
+      "title": "Where the Wind, Hounds, and Birds Gather",
+      "tag": "Embeddings"
+    },
+    {
+      "id": "hw6",
+      "num": 6,
+      "title": "Parrot or Poet?",
+      "tag": "Language models"
+    }
+  ]
+}

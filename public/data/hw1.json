@@ -1,0 +1,343 @@
+{
+  "title": "Coding Couples Therapy",
+  "sampleWords": 2541,
+  "nPassages": 32,
+  "themes": [
+    "Emotional Disclosure",
+    "Attribution of Responsibility",
+    "Self-Justification / Defense",
+    "Therapeutic Reframing",
+    "Story / Context"
+  ],
+  "primaryCounts": {
+    "Story / Context": 10,
+    "Emotional Disclosure": 9,
+    "Therapeutic Reframing": 5,
+    "Attribution of Responsibility": 4,
+    "Self-Justification / Defense": 4
+  },
+  "anyCounts": {
+    "Story / Context": 12,
+    "Attribution of Responsibility": 7,
+    "Emotional Disclosure": 11,
+    "Therapeutic Reframing": 7,
+    "Self-Justification / Defense": 6
+  },
+  "multiLabelCount": 11,
+  "cooccurrence": [
+    {
+      "a": "Attribution of Responsibility",
+      "b": "Story / Context",
+      "n": 2
+    },
+    {
+      "a": "Attribution of Responsibility",
+      "b": "Emotional Disclosure",
+      "n": 2
+    },
+    {
+      "a": "Emotional Disclosure",
+      "b": "Self-Justification / Defense",
+      "n": 1
+    },
+    {
+      "a": "Self-Justification / Defense",
+      "b": "Story / Context",
+      "n": 2
+    },
+    {
+      "a": "Emotional Disclosure",
+      "b": "Story / Context",
+      "n": 2
+    },
+    {
+      "a": "Story / Context",
+      "b": "Therapeutic Reframing",
+      "n": 1
+    },
+    {
+      "a": "Emotional Disclosure",
+      "b": "Therapeutic Reframing",
+      "n": 1
+    }
+  ],
+  "passages": [
+    {
+      "excerpt": "When we go to sleep, we snuggle every night. But it's been a thing.",
+      "location": "S1 EP3",
+      "themes": [
+        "Story / Context"
+      ],
+      "speaker": "Lauren"
+    },
+    {
+      "excerpt": "Through our relationship... that she's been like, 'Get away.'",
+      "location": "S1 EP3",
+      "themes": [
+        "Story / Context",
+        "Attribution of Responsibility"
+      ],
+      "speaker": "Lauren"
+    },
+    {
+      "excerpt": "It didn't really feel like a normal tone. It felt like...? — Rejection.",
+      "location": "S1 EP3",
+      "themes": [
+        "Emotional Disclosure"
+      ],
+      "speaker": "Lauren"
+    },
+    {
+      "excerpt": "I just want to be near you... and you're, like, pushing me away.",
+      "location": "S1 EP3",
+      "themes": [
+        "Emotional Disclosure",
+        "Attribution of Responsibility"
+      ],
+      "speaker": "Lauren"
+    },
+    {
+      "excerpt": "I feel like I get... snapped at... as if... maybe that I'm... selfish or... too much?",
+      "location": "S1 EP3",
+      "themes": [
+        "Emotional Disclosure"
+      ],
+      "speaker": "Lauren"
+    },
+    {
+      "excerpt": "This business of... coming close to someone is a place of... great vulnerability.",
+      "location": "S1 EP3",
+      "themes": [
+        "Therapeutic Reframing"
+      ],
+      "speaker": "Orna"
+    },
+    {
+      "excerpt": "To feel like you're doing it wrong there has the potential to be... deeply wounding. Humiliating.",
+      "location": "S1 EP3",
+      "themes": [
+        "Therapeutic Reframing"
+      ],
+      "speaker": "Orna"
+    },
+    {
+      "excerpt": "Like the way I reacted... was... over-the-top.",
+      "location": "S1 EP3",
+      "themes": [
+        "Emotional Disclosure",
+        "Self-Justification / Defense"
+      ],
+      "speaker": "Lauren"
+    },
+    {
+      "excerpt": "It feels like she's ignoring... my boundary.",
+      "location": "S1 EP3",
+      "themes": [
+        "Attribution of Responsibility"
+      ],
+      "speaker": "Sarah"
+    },
+    {
+      "excerpt": "I actually forgot it was Monday, and I usually... water the plants and he did that.",
+      "location": "S2 EP7",
+      "themes": [
+        "Story / Context"
+      ],
+      "speaker": "Gianni"
+    },
+    {
+      "excerpt": "Then we went to the park and he was like, 'I want to be more spontaneous.'",
+      "location": "S2 EP7",
+      "themes": [
+        "Story / Context"
+      ],
+      "speaker": "Matthew"
+    },
+    {
+      "excerpt": "The little gestures... they have deep roots.",
+      "location": "S2 EP7",
+      "themes": [
+        "Therapeutic Reframing"
+      ],
+      "speaker": "Orna"
+    },
+    {
+      "excerpt": "He absolutely refused to have the A/C on... So I'm just like, 'You know what? I'll be hot tonight.'",
+      "location": "S2 EP7",
+      "themes": [
+        "Story / Context",
+        "Self-Justification / Defense"
+      ],
+      "speaker": "Matthew"
+    },
+    {
+      "excerpt": "I'm not being the perfect guy that you were so excited about moments ago?",
+      "location": "S2 EP7",
+      "themes": [
+        "Self-Justification / Defense"
+      ],
+      "speaker": "Matthew"
+    },
+    {
+      "excerpt": "You're turning something very sweet that is being delivered to you into something thorny.",
+      "location": "S2 EP7",
+      "themes": [
+        "Attribution of Responsibility"
+      ],
+      "speaker": "Matthew"
+    },
+    {
+      "excerpt": "I think my first true relationship experience was... kind of a love triangle.",
+      "location": "S3 EP14",
+      "themes": [
+        "Story / Context",
+        "Emotional Disclosure"
+      ],
+      "speaker": "Brock"
+    },
+    {
+      "excerpt": "I felt like she kind of put me into one.",
+      "location": "S3 EP14",
+      "themes": [
+        "Attribution of Responsibility"
+      ],
+      "speaker": "Brock"
+    },
+    {
+      "excerpt": "I had really bad acne. My brother was more of an athlete.",
+      "location": "S3 EP14",
+      "themes": [
+        "Story / Context"
+      ],
+      "speaker": "Brock"
+    },
+    {
+      "excerpt": "My brother got his first kiss before I did.",
+      "location": "S3 EP14",
+      "themes": [
+        "Story / Context"
+      ],
+      "speaker": "Brock"
+    },
+    {
+      "excerpt": "My first relationship was so devastating... 'cause I was still... I just looked... really bad.",
+      "location": "S3 EP14",
+      "themes": [
+        "Emotional Disclosure",
+        "Story / Context"
+      ],
+      "speaker": "Brock"
+    },
+    {
+      "excerpt": "That might be one of the... old stories that's getting reworked here.",
+      "location": "S3 EP14",
+      "themes": [
+        "Therapeutic Reframing"
+      ],
+      "speaker": "Orna"
+    },
+    {
+      "excerpt": "This was a hard month for me... having a healthy relationship with myself.",
+      "location": "S4 EP17",
+      "themes": [
+        "Emotional Disclosure"
+      ],
+      "speaker": "Katherine"
+    },
+    {
+      "excerpt": "I don't remember life without... negative thoughts about myself.",
+      "location": "S4 EP17",
+      "themes": [
+        "Emotional Disclosure"
+      ],
+      "speaker": "Katherine"
+    },
+    {
+      "excerpt": "I've been falling back into old habits and... it's embarrassing, and I feel ashamed.",
+      "location": "S4 EP17",
+      "themes": [
+        "Emotional Disclosure"
+      ],
+      "speaker": "Katherine"
+    },
+    {
+      "excerpt": "I used to hide it when I was a kid because I would get in trouble.",
+      "location": "S4 EP17",
+      "themes": [
+        "Story / Context",
+        "Therapeutic Reframing"
+      ],
+      "speaker": "Katherine"
+    },
+    {
+      "excerpt": "I have these... two selves, and my current self hates that... younger self.",
+      "location": "S4 EP17",
+      "themes": [
+        "Emotional Disclosure",
+        "Therapeutic Reframing"
+      ],
+      "speaker": "Katherine",
+      "hero": true
+    },
+    {
+      "excerpt": "They would make me run around the tent naked... and say things about my body.",
+      "location": "S4 EP17",
+      "themes": [
+        "Story / Context",
+        "Attribution of Responsibility"
+      ],
+      "speaker": "Katherine"
+    },
+    {
+      "excerpt": "I am gonna take it upon myself to inconvenience myself for two years for her emotional well-being.",
+      "location": "S5 EP1",
+      "themes": [
+        "Self-Justification / Defense"
+      ],
+      "speaker": "Marjorie"
+    },
+    {
+      "excerpt": "Because I'm gonna be driving an hour. Eighty miles one way to bring the kids to school.",
+      "location": "S5 EP1",
+      "themes": [
+        "Self-Justification / Defense"
+      ],
+      "speaker": "Marjorie"
+    },
+    {
+      "excerpt": "They struggle to get to school on time right now... they have to get up... at 5:00.",
+      "location": "S5 EP1",
+      "themes": [
+        "Self-Justification / Defense",
+        "Story / Context"
+      ],
+      "speaker": "Marjorie"
+    },
+    {
+      "excerpt": "There's no negotiating with him. I start to tune out because I'm just so sick and tired of hearing him rant and rave.",
+      "location": "S5 EP1",
+      "themes": [
+        "Attribution of Responsibility",
+        "Emotional Disclosure"
+      ],
+      "speaker": "Marjorie"
+    },
+    {
+      "excerpt": "Ranting and raving can cause people to shut down. However, the less you listen, the more the other person is gonna rant and rave.",
+      "location": "S5 EP1",
+      "themes": [
+        "Therapeutic Reframing"
+      ],
+      "speaker": "Orna"
+    }
+  ],
+  "keyFinding": "Close reading forced me to notice that half of every \"explanation\" is secretly a defense, messier and more interesting than \"the show was sad.\"",
+  "whatChanged": "Homework was tables only. The portfolio adds an explorable theme map from the same 32 coded passages and leads with Katherine's two-selves quote.",
+  "themeDefinitions": {
+    "Emotional Disclosure": "A speaker reveals their own feelings, vulnerability, or inner experience.",
+    "Attribution of Responsibility": "A speaker connects a problem, negative experience, or feeling to their partner’s behavior.",
+    "Self-Justification / Defense": "A speaker explains, excuses, or minimizes their own behavior or position.",
+    "Therapeutic Reframing": "A speaker interprets an interaction as evidence of a deeper emotional or relational pattern, almost always the therapist, Orna.",
+    "Story / Context": "A speaker narrates events or circumstances mainly to set factual scene for the conversation."
+  }
+}

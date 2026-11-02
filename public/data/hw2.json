@@ -1,0 +1,88 @@
+{
+  "title": "Can Just Anyone be a Therapist?",
+  "personas": [
+    {
+      "name": "Interactional Sociolinguist",
+      "line": "What does the conversation actually do?"
+    },
+    {
+      "name": "Clinical Discourse Specialist",
+      "line": "What relational meaning lies underneath?"
+    },
+    {
+      "name": "Skeptical Copyeditor",
+      "line": "Show me where the text says it."
+    }
+  ],
+  "passages": [
+    {
+      "id": 1,
+      "text": "It didn't really feel like a normal tone. It felt like...? — Rejection.",
+      "gt": "Disclosure",
+      "panel": "Disclosure",
+      "minusExamples": "Disclosure"
+    },
+    {
+      "id": 2,
+      "text": "It feels like she's ignoring... my boundary.",
+      "gt": "Attribution",
+      "panel": "Attribution",
+      "minusExamples": "Attribution"
+    },
+    {
+      "id": 3,
+      "text": "Like the way I reacted... was... over-the-top.",
+      "gt": "Defence",
+      "panel": "Defence",
+      "minusExamples": "Defence"
+    },
+    {
+      "id": 4,
+      "text": "This business of... coming close to someone is a place of... great vulnerability.",
+      "gt": "Reframing",
+      "panel": "Reframing",
+      "minusExamples": "Reframing"
+    },
+    {
+      "id": 5,
+      "text": "I just want to be near you... and you're, like, pushing me away.",
+      "gt": "Disclosure",
+      "disputed": true,
+      "panel": "Attribution",
+      "minusExamples": "Disclosure"
+    },
+    {
+      "id": 6,
+      "text": "I'm not being the perfect guy that you were so excited about moments ago?",
+      "gt": "Defence",
+      "panel": "Defence",
+      "minusExamples": "Defence"
+    },
+    {
+      "id": 7,
+      "text": "I felt like she kind of put me into one.",
+      "gt": "Attribution",
+      "panel": "Attribution",
+      "minusExamples": "Attribution"
+    },
+    {
+      "id": 8,
+      "text": "That might be one of the... old stories that's getting reworked here.",
+      "gt": "Reframing",
+      "panel": "Reframing",
+      "minusExamples": "Reframing"
+    }
+  ],
+  "agreement": {
+    "panel": 0.875,
+    "minusSociolinguist": 0.875,
+    "minusClinical": 0.875,
+    "minusCopyeditor": 0.875,
+    "mvp": 0.875,
+    "minusRole": 0.875,
+    "minusExamples": 1.0,
+    "minusCoT": 0.875
+  },
+  "keyFinding": "Personas agreed perfectly and added no unique analysis. Given clear instructions, Claude matched that accuracy, and few-shot examples were the only component that moved the ambiguous line.",
+  "whatChanged": "Homework buried results in screenshots. The portfolio rebuilds the 7/8 table as an ablation stepper and surfaces the passage-5 / −Examples flip the slide skipped."
+}
