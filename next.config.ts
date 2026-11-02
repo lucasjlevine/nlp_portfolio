@@ -1,6 +1,6 @@
 import type { NextConfig } from "next";
 
-const repo = "YOUR_REPO_NAME"; // e.g. portfolio-site
+const repo = "nlp_portfolio";
 const isGhPages = process.env.GITHUB_PAGES === "true";
 
 const nextConfig: NextConfig = {
